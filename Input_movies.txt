@@ -1,0 +1,8 @@
+The Terminal; 2004; Comedy, Drama, Romance; 0; Steven Spielberg; Tom Hanks, Catherine Zeta-Jones, Chi McBride
+Apollo 13; 1995; Adventure, Drama, History; 6; Ron Howard; Tom Hanks, Bill Paxton, Kevin Bacon
+The Greatest Showman; 2017; Biography, Drama, Musical; 6; Michael Gracey; Hugh Jackman, Michelle Williams, Zac Efron
+Cast Away; 2000; Adventure, Drama, Romance; 12; Robert Zemeckis; Tom Hanks, Helen Hunt, Paul Sanchez
+The Godfather; 1972; Crime, Drama; 16; Francis Ford Coppola; Marlon Brando, Al Pacino, James Caan
+Pulp Fiction; 1994; Crime, Drama; 16; Quentin Tarantino; John Travolta, Uma Thurman, Samuel Jackson
+Fight Club; 1999; Drama; 18; David Fincher; Brad Pitt, Edward Norton, Meat Loaf
+The Comebacks; 2007; Sport, Comedy; 12; Tom Brady; David Koechner, Carl Weathers, Melora Hardin
